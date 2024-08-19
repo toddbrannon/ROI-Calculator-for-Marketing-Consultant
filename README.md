@@ -3,7 +3,7 @@
 
 This project is a web-based ROI (Return on Investment) calculator designed for marketing consultants. It allows users to input key marketing metrics (ad spend, conversion rate, and average deal size) and calculates the ROI of their marketing campaigns. The calculator also includes features to save results as a PDF and to contact the business with the calculated results.
 
-![Screenshot of ROI Calculator](img/result_screenshot.PNG)
+![Screenshot of ROI Calculator](public/img/result_screenshot.PNG)
 
 ## Features
 
